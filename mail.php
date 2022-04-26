@@ -5,7 +5,7 @@
 		$phone=$_POST['phone'];
 		$comment=$_POST['comment'];
 
-		$to='jshakya234@gmail.com'; // Receiver Email ID, Replace with your email ID
+		$to='info@gulfhotelmumbai.com'; // Receiver Email ID, Replace with your email ID
 		$subject='Form Submission';
 		$message="Name :".$name."\n"."Phone :".$phone."\n"."Wrote the following :"."\n\n".$comment;
 		$headers="From: ".$email;
