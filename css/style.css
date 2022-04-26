@@ -106,7 +106,7 @@ html {
 /*------- LOGO ----------- */
 
 #logo {
-    /* margin: 15px 0 50px; */
+    margin: 15px 0 50px;
     float: left;
 }
 #logo a, #logo a img {
